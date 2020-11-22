@@ -25,7 +25,14 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p>
+               -Trying to learn and research new things all the time. 
+               <br/>
+               -very flexible and open to learn new things always.
+               <br/>
+               -Very socialize, friendly and can fit in any team of programs.
+               <br/>
+               -Read and try to be up to date with new technologies in software industry.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
@@ -38,11 +45,7 @@ class About extends Component {
                      <span>{email}</span>
 					   </p>
                </div>
-               <div className="columns download">
-                  <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
-                  </p>
-               </div>
+               
             </div>
          </div>
       </div>
