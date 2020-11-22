@@ -1,0 +1,153 @@
+{
+    "main": {
+        "name": "Dvir Ben Shlush",
+        "occupation": "(Your Occupation Here)",
+        "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+        "image": "profilepic.jpeg",
+        "bio": "Trying to learn and research new things all the time.very flexible and open to learn new things always.",
+        "contactmessage": "",
+        "email": "dvirbsh95@gmail.com",
+        "phone": "+972-528406351",
+        "address": {
+            "city": "Rishon Lezion",
+            "state": "Israel"
+        },
+        "website": "http://www.timbakerdev.com",
+        "resumedownload": "http://timbakerdev.com",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/dvir.benshlush",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/dvir-benshlush-535349186/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/dvirbenshlush/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "http://https://github.com/dvirbenshlush",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "",
+        "education": [{
+            "school": "College Of Management",
+            "degree": "bachelor computer science degree",
+            "graduated": "October 2020",
+            "description": "Full Stack internship"
+        }],
+        "work": [{
+                "company": "Exam Management System",
+                "title": "Degree Final Porject",
+                "years": "Juny 2020",
+                "description": "5 developers system with big amount of code and integration.",
+                "description2": "Facing a lot of challenges and problem solving throughout the project.",
+                "description3": "Python 3.5 & Django for back-end.",
+                "description4": "React as front-end."
+            },
+            {
+                "company": "Memory-Game",
+                "title": "Full-Stack specialization",
+                "years": "January 2020",
+                "description": "Memory Game written as Full-Stack final course project.",
+                "description2": "React as front-end.",
+                "description3": "NodeJS for back-end with Axios and Express.",
+                "description4": "MongoDB for DB."
+            },
+            {
+                "company": "Fligth-Gear Simulator",
+                "title": "Java course final project",
+                "years": "January 2020",
+                "description": "MVC Architecture implementation.",
+                "description2": "Huge use of design patterns - Observer/Observable, Interpreter,Command-pattern, Object-Adapter, Bridge",
+                "description3": "Java8 for Server-Side.",
+                "description4": "JavaFX for Client-side"
+            }
+        ],
+        "skills": [{
+                "name": "Git",
+                "level": "70%"
+            },
+            {
+                "name": "NODE JS",
+                "level": "70%"
+            },
+            {
+                "name": "NPM",
+                "level": "70%"
+            },
+            {
+                "name": "Java",
+                "level": "85%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "60%"
+            },
+            {
+                "name": "CSS",
+                "level": "65%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Canadian Wanderlust",
+                "category": "My Travel Blog for my post-university travels",
+                "image": "canadian-wanderlust.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title": "Fury Fighting Gear",
+                "category": "(offline now) A fighting gear company I started",
+                "image": "fury-fighting-gear.jpg",
+                "url": "http://www.timbakerdev.com"
+            },
+            {
+                "title": "Original Thai Food",
+                "category": "Website I built for a restaurant I like in Thailand",
+                "image": "original-thai-food.jpg",
+                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title": "Resume Website",
+                "category": "A React based resume website template",
+                "image": "resume-website.jpg",
+                "url": "http://www.timbakerdev.com"
+            },
+            {
+                "title": "Smirkspace",
+                "category": "(MVP Only) A React and Meteor based chat University project.",
+                "image": "smirkspace.jpg",
+                "url": "http://www.smirkspace.com"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+                "user": "Kareem Abdul Jabbar"
+            },
+            {
+                "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+                "user": "Steve Wozniak... impersonator"
+            }
+        ]
+    }
+}
