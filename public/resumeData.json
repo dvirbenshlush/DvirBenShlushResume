@@ -61,6 +61,15 @@
                 "description2": "React as front-end.",
                 "description3": "NodeJS for back-end with Axios and Express.",
                 "description4": "MongoDB for DB."
+            },
+            {
+                "company": "Fligth-Gear Simulator",
+                "title": "Java course final project",
+                "years": "January 2020",
+                "description": "MVC Architecture implementation.",
+                "description2": "Huge use of design patterns - Observer/Observable, Interpreter,Command-pattern, Object-Adapter, Bridge",
+                "description3": "Java8 for Server-Side.",
+                "description4": "JavaFX for Client-side"
             }
         ],
         "skills": [{
