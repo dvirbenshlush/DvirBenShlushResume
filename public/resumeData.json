@@ -4,7 +4,7 @@
         "occupation": "(Your Occupation Here)",
         "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
         "image": "profilepic.jpeg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "bio": "Trying to learn and research new things all the time.very flexible and open to learn new things always.",
         "contactmessage": "here is where you should write your message to readers to have them get in contact with you.",
         "email": "dvirbsh95@gmail.com",
         "phone": "+972-528406351",
@@ -31,13 +31,13 @@
             },
             {
                 "name": "github",
-                "url": "http://github.com/tbakerx",
+                "url": "http://https://github.com/dvirbenshlush",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "",
         "education": [{
             "school": "College Of Management",
             "degree": "bachelor computer science degree",
@@ -45,41 +45,51 @@
             "description": "Full Stack internship"
         }],
         "work": [{
-                "company": "Awesome Design Studio",
-                "title": "Senior UX God ",
-                "years": "March 2010 - Present",
-                "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+                "company": "Exam Management System",
+                "title": "Degree Final Porject",
+                "years": "Juny 2020",
+                "description": "5 developers system with big amount of code and integration.",
+                "description2": "Facing a lot of challenges and problem solving throughout the project.",
+                "description3": "Python 3.5 & Django for back-end.",
+                "description4": "React as front-end."
             },
             {
-                "company": "Super Cool Studio",
-                "title": "Junior bug fixer",
-                "years": "March 2007 - February 2010",
-                "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+                "company": "Memory-Game",
+                "title": "Full-Stack specialization",
+                "years": "January 2020",
+                "description": "Memory Game written as Full-Stack final course project.",
+                "description2": "React as front-end.",
+                "description3": "NodeJS for back-end with Axios and Express.",
+                "description4": "MongoDB for DB."
             }
         ],
         "skills": [{
                 "name": "Git",
-                "level": "60%"
+                "level": "70%"
             },
             {
-                "name": "Illustrator",
-                "level": "55%"
+                "name": "NODE JS",
+                "level": "70%"
+            },
+            {
+                "name": "NPM",
+                "level": "70%"
+            },
+            {
+                "name": "Java",
+                "level": "85%"
             },
             {
                 "name": "ReactJs",
-                "level": "50%"
+                "level": "60%"
             },
             {
                 "name": "CSS",
-                "level": "90%"
+                "level": "65%"
             },
             {
                 "name": "HTML5",
                 "level": "80%"
-            },
-            {
-                "name": "VueJs",
-                "level": "50%"
             },
             {
                 "name": "MongoDB",

@@ -38,6 +38,7 @@ class Contact extends Component {
 
                <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
+               <form method="post" action="mailto:dvirbsh95@gmail.com" >
 
                   <div>
 						   <label htmlFor="contactName">Name <span className="required">*</span></label>
@@ -60,11 +61,14 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <button className="submit">Submit</button>
+
+                     <button>Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
+            
                   </div>
+</form>
 					</fieldset>
 				   </form>
 
