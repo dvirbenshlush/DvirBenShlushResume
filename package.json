@@ -1,10 +1,11 @@
 {
-    "homepage": "http://dvirbenshlush.github.io/resume",
+    "homepage": "http://dvirbenshlush.github.io/dvirbenshlush.github.io",
     "name": "personalportfolio",
     "version": "0.1.0",
     "editor.formatOnSave": false,
     "private": true,
     "dependencies": {
+        "emailjs-com": "^2.6.4",
         "jquery": "^3.2.1",
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
